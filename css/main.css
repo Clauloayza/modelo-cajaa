@@ -6,10 +6,10 @@ p {
 }
 
 div {
-    padding: 15px 8px 30px 25px;
+    padding: 30px 8px 70px 25px;
     border-style: solid;
     border-color: blueviolet;
-    border-width: 11px 9px;
-    background-color: orange;
+    border-width: 15px 9px;
+    background-color: gold;
         
 }
